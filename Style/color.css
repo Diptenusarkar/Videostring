@@ -1,0 +1,21 @@
+.c-black {
+    color:rgb(4, 34, 116);
+}
+.c-yel {
+    color: rgb(175, 175, 4);
+}
+.c-white {
+    color: white;
+}
+.b-blue {
+    background-color: blue;
+}
+.b-orange {
+    background-color: orange;
+}
+.b-sky {
+    background-color: skyblue;
+}
+.b-white {
+    background-color: whitesmoke;
+}
